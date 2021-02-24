@@ -1,5 +1,7 @@
 ---
-title: "Blog, Log, Projects, Maybe More?"
+layout: page
+title: "Blog, Log, Projects, More"
+permalink: /index/
 ---
 
 In the middle of setting up right now.  
