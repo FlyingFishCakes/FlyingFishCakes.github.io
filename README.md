@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Blog, Log, Projects, More"
-permalink: /index/
+permalink: /
 ---
 
 In the middle of setting up right now.  
