@@ -15,6 +15,7 @@ Origami
 Kalita wave
 Aeropress
 Kono dripper
+Blue Bottle Dripper
 South Indian Filter
 Vietnamese phin
 Manual espresso maker
