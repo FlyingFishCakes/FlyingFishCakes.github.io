@@ -72,3 +72,5 @@ kramdown:
   show_warnings     : false
   math_engine: mathjax
   syntax_highlighter: rouge
+
+theme: jekyll-theme-leap-day
