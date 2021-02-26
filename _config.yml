@@ -74,3 +74,6 @@ kramdown:
   syntax_highlighter: rouge
 
 theme: jekyll-theme-leap-day
+
+title: "LinK Blog"
+description: "Blog, Log, Projects, More"
