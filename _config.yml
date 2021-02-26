@@ -75,7 +75,6 @@ kramdown:
 
 title: "LinK Blog"
 description: "Blog, Log, Projects, More"
-github:
-  is_project_page: false
+show_downloads: false
 
 theme: jekyll-theme-leap-day
