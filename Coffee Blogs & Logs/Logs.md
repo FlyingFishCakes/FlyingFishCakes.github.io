@@ -172,6 +172,7 @@ Tasting Note on 2-5-2021:
 Sweet, milk chocolate, slight raisins
 
 Tastes much sweeter with less acidity giving off a slight raisin/fruit acidity (remember berry = acidity stronger than sweetness, fruit = sweetness stronger than acidity). Is a much lighter roast despite the impression it gives off with the taste and so by grinding finer was able to taste much better. According to the bag the coffee should taste like cocoa, milk, sweet, smooth - all of which I agree with except for the indistinct acidity (pleasant but fairly light) that is not mentioned.
+
 Guatemalan Bourbon
 
 Bought from smoking beans on Amazon.
@@ -221,6 +222,16 @@ Tasting Notes on 2-22-2021:
 Sweet, very chocolaty, very smooth, no harsh bitterness, very mild acidity (again dried fruit like when combined with the sweetness)
 
 Bypass brew recipe that I am starting to fall back on more and more. Very difficult to mess up and get harsh notes from.
+
+Tasting Notes on 2-26-2021:
+Super smooth, medium body, super chocolaty, sweet, very tasty
+
+I'm still using a flat bottom filter in my V60 right now, but I coarsened up the grind a little bit. Idk why but the drawdown is really slow and I'm getting ~10 minute drawdown times, but for some reason it still tastes great.
+
+Roast Date 2-27-2021:
+250 grams to 211.5 grams (15.4% roast lost)
+No recorded roast time, roasted beyond second crack for a dark roast (trying to chase chocolate notes).
+
 Ethiopian Yirgacheffe
 
 Bought from smoking beans on Amazon.

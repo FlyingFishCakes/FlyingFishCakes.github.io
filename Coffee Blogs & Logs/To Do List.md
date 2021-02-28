@@ -2,6 +2,7 @@ Things on the list to try
 Coffee Products
 Cometeer
 Jot Coffee
+Chicory Coffee with milk and sugar
 
 Roasters
 Counter Culture Coffees
