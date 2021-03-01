@@ -1,4 +1,4 @@
-Ethiopian Yirgacheffe
+# Ethiopian Yirgacheffe
 
 Bought from smoking beans on Amazon.
 Not taking notes live since this was bought, roasted, and drank before beginning of this journal.
