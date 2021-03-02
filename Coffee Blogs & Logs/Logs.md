@@ -1,5 +1,6 @@
 # Overview
 Just a short general impression with link to logs.
+
 ## Bali Blue Moon
 
 [Logs](Logs/Bali Blue Moon.md)
