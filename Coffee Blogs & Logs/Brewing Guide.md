@@ -1,14 +1,14 @@
-Brewing Guide
+# Brewing Guide
 
-Assuming other factors are held constant.
-Grind: finer = higher extraction, coarser = lower extraction
-Dose: less = higher extraction, more = lower extraction
-Water Temperature: lower = lower extraction, high = higher extraction
+Assuming other factors are held constant.  
+Grind: finer = higher extraction, coarser = lower extraction  
+Dose: less = higher extraction, more = lower extraction  
+Water Temperature: lower = lower extraction, high = higher extraction  
 Water Weight: less = lower extraction, more = higher extraction
 
 For pour over it is also important to pour slowly enough so the coffee grounds that are floating sink in order for the water to percolate through it. If you find that a lot of coffee is floating during your pour then the coffee that is floating will under extract and the coffee that is at the bottom will over extract. Percolation (bed of coffee at bottom) is stronger at dissolving coffee solubles than immersion (floating coffee on top).
 
-Melodrip
+## Melodrip
 Definitely did not buy a piece of plastic with holes in it. I fashioned an approximation with a paper coffee cup with holes poked into the bottom. It definitely helped with the gently distributing the water so the coffee bed was not disturbed. The biggest difference though was probably the multiple pulse pours at the beginning that did a great job of degassing the grounds and prepping an evenly saturated coffee bed.
 
 Main Takeaways
@@ -16,7 +16,7 @@ Multiple pulse pours to bloom including agitation is very effective
 Not disturbing the coffee bed can be achieved with a careful pour
 Melodrip is convenient but not crucial to break the fall of water into the coffee bed
 
-Chanho Tornado
+## Chanho Tornado
 Needs some practice to get that signature dome at the end. I needed to grind a bit finer since it has a faster drawdown allowing a finer grind to allow for enough extraction. Because the coffee is swirling around in the cone, it only initially filters through a small portion of the grounds making the drawdown start fast and stay fast until near the very end.
 
 Main Takeaways
@@ -30,7 +30,7 @@ Fill the cone up high to maintain temperature
 Stir at the end to knock down coffee stuck to the walls of the brewer
 Swirl the bloom instead of stirring - this only works with better grinders that don’t generate large amounts of fines
 
-Osmotic Flow
+## Osmotic Flow
 I do a modified osmotic flow, not the osmotic flow shown on Cafecs website:
 
 Instead, when you are supposed to begin doing slow concentric circles I do larger circles and I keep the water level low to have the bed as flat as possible after drawdown.
@@ -44,7 +44,7 @@ Would probably be a waste to use on lighter roasts with fruitier flavors. It wou
 Addendum
 I tried brewing some french roast coffee that my dad likes and I think I realized why this brew method exists. For some reason the coffee always floats even if I try to agitate as much as I can during the bloom. This method might have come into existence because of a combination of roasting well past the second crack and stale coffee or on the flip side maybe coffee what was roasted very dark and too fresh.
 
-4/6 Tetsu Kasuya Method
+## 4/6 Tetsu Kasuya Method
 Pulse pour method in which you grind very coarse and divide the total brew water into multiple pours within a 40% to 60% framework where the first 40% brew water controls acidity and sweetness. The secondary 60% of brew water controls brew strength. Interestingly, there is little mention of over extraction because of how difficult it is to actually over extract. Remember that the coarser the grind the harder it is to over extract a pour over both because of reduced surface area and a faster flow of water through the coffee bed (the water temperature also doesn’t stay as hot because of the smaller thermal mass in the slurry). This tendency to under extract is balanced by the pulse pours which slow the drawdown. The result is a brew method that makes medium to dark roasts really pop while giving really light roasts a slight grassy/green taste (I think the slurry is just not hot enough in this pulse pour method).
 The Theory
 The first 40% adjusts the sweetness and acidity because the first pulse also doubles as the bloom in which adding more water while the coffee is still off gassing will under extract the coffee giving more acidity.
@@ -62,7 +62,7 @@ Larger first pour to increase acidity, Larger second pour to increase sweetness
 Adjust pulse pour amounts in the second 60% to adjust body and strength
 Fewer pours to reduce strength and body, more pours to increase strength and body
 
-Bypass Brewing/Concentrate Brewing
+## Bypass Brewing/Concentrate Brewing
 This brew method is where you extract the grounds with a smaller amount of brew water to create a concentrate that is then diluted to the desired strength. There are mixed messages about whether to grind finer (James Hoffman) or coarser (Royal Coffee, Aeropress). I’m thinking that if I grind finer I just brew as normal (coned topped with high thermal mass), while if I grind coarser I might keep the slurry lower and agitate more like I would in an aeropress. Conclusion posted below after testing.
 
 I recently saw a video on James Hoffman’s channel titled “Decolonising Coffee Through Flavor”. In it I saw something called a South Indian Coffee Filter in which you grind espresso/turkish fine coffee and you let it percolate slowly through a metal filter to get a concentrate. I wonder if that can be recreated with a paper filter in a V60 to get a strong coffee concentrate, and I also wonder if this would be a great time to use that metal pour over filter I never liked because of all the sediment (The coffee concentrate I saw in the video was wonderfully clear and free of sediment).
@@ -84,7 +84,7 @@ This recipe is worded poorly so it is pretty confusing. I think it says that the
 Conclusion
 Having dialed in a few brews with a 1:10 ratio using a V60 which I then dilute after to taste, I have come up with some conclusions. This is not a very efficient brewing method usually resulting in a stronger coffee that can be diluted but is most likely lower in terms of total extraction from the ground coffee. This is effective if you are combatting over extraction this would be a more drastic measure to take.
 
-I changed my mind. This is a wonderful way to make coffee and the method is actually the Aeropress way. Grind coarse, pulse pour, agitate like mad, let it slow drawdown and you end up with a strong perfectly extracted coffee concentrate. I used a 1:10 ratio dividing each pulse pour into 2.5 times the water 4 times (I’m not quite sure what the optimal pulse pour amounts would be). After each pulse of water I agitate ~10 times  give or take with a spoon. After the coffee has drawn down I add enough water to finish with a 1:15 ratio (this is just a personal preference). After finding out this method of making a coffee concentrate I can say that I will definitely change the traditional way I make Japanese Iced Coffee.
+I changed my mind. This is a wonderful way to make coffee and the method is actually the Aeropress way. Grind coarse, pulse pour, agitate like mad, let it slowly drawdown and you end up with a strong perfectly extracted coffee concentrate. I used a 1:10 ratio dividing each pulse pour into 2.5 times the water 4 times (I’m not quite sure what the optimal pulse pour amounts would be). After each pulse of water I agitate ~10 times  give or take with a spoon. After the coffee has drawn down I add enough water to finish with a 1:15 ratio (this is just a personal preference). After finding out this method of making a coffee concentrate I can say that I will definitely change the traditional way I make Japanese Iced Coffee.
 Main Takeaways
 This is an effective but less efficient way to combat over extraction, but this makes me curious about whether I could make certain dark roasted coffees taste amazing.
 Aeropress method is the way to go
@@ -92,7 +92,7 @@ Grind coarser (about 2-3 numbers (6-9 clicks) back on the 1zpresso JX from the d
 Agitate plenty (how much you agitate is likely a factor to change given different roast levels)
 Pulse pour to keep slurry level low and drawdown slow
 Body of coffee is reduced for some reason, probably just a side effect of dilution afterwards and not passing that water through the coffee bed.
-My Current Pour Over Guide (Updated Regularly)
+## My Current Pour Over Guide (Updated Regularly)
 Default
 Prepare brewer, filter, hot water, ground coffee, stir stick, scale, and optionally a timer
 Place filter in brewer, with stir stick to prewet and preheat brewer
