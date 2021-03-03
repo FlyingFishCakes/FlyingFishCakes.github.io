@@ -57,3 +57,8 @@ I'm still using a flat bottom filter in my V60 right now, but I coarsened up the
 ## Roast Date 2-27-2021:
 250 grams to 211.5 grams (15.4% roast lost)
 No recorded roast time, roasted beyond second crack for a dark roast (trying to chase chocolate notes).
+
+### Tasting Notes on 3-3-2021:
+Super rich, smooth, super chocolaty, mild pleasant sweetness, very slight smokiness on the finish
+
+I've neglected to some logs on this roast, but this roast is very good. The chocolate notes are very strong, and I absolutely love brewing this with an Ibrik at a 1:8 ratio with or without sugar. I have yet to try adding spices into the Turkish coffee, but the coffee tastes soooooo good. It is just rich, thick bodied, and super chocolaty.
