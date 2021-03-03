@@ -110,6 +110,7 @@ It is incredibly tasting after dialing in the brew method. I can see where the r
 * I find that 1:10 works well for lighter roasts, while 1:8 works better for darker roasts (1:10 gives a lighter cleaner cup, 1:8 gives a heavier richer cup)
 * Adding sugar will increase body/thickness on top of sweetness (1:8 ratio dark roast with a spoon of sugar is like a dessert)
 * If you want the crema on top then remember coffee freshness is your friend
+* The crema you see on top of the coffee adds bitterness, but makes your coffee much more aromatic, if you want to get rid of the roast-y bitterness you can skim off the crema for a sweeter tasting cup.
 * If your coffee is going stale/has off flavors this brew method will most likely exacerbate it.
 
 ## My Current Pour Over Guide (Updated Regularly)
