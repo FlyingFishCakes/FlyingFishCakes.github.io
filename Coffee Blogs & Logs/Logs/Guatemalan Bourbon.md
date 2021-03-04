@@ -61,4 +61,9 @@ No recorded roast time, roasted beyond second crack for a dark roast (trying to 
 ### Tasting Notes on 3-3-2021:
 Super rich, smooth, super chocolaty, mild pleasant sweetness, very slight smokiness on the finish
 
-I've neglected to some logs on this roast, but this roast is very good. The chocolate notes are very strong, and I absolutely love brewing this with an Ibrik at a 1:8 ratio with or without sugar. I have yet to try adding spices into the Turkish coffee, but the coffee tastes soooooo good. It is just rich, thick bodied, and super chocolaty.
+I've neglected to some logs on this roast, but this roast is very good. The chocolate notes are very strong, and I absolutely love brewing this with an Ibrik at a 1:8 ratio with or without sugar (transforms into an incredible dessert drink with sugar). I have yet to try adding spices into the Turkish coffee, but the coffee tastes soooooo good. It is just rich, thick bodied, and super chocolaty.
+
+### Tasting Notes on 3-4-2021:
+Sweet, chocolaty, slight herbal bitterness, heavy bodied, very tasty
+
+It is an incredibly fascinating change what adding a little cardamom has done. This was brewed in an Ibrik in a 1:1:8 ratio of coffee to sugar to water with 1/8 tsp of cardamom. This would be incredible as a dessert drink. The roast-y bitterness that comes from the crema is now gone because of the cardamom and is now also tasty while adding texture. The bitterness in the coffee has also been replaced with the flavor of cardamom (same concept as espresso tonic). The cardamom does not pair well with this coffee because it masks the coffee intrinsic bitterness. This coffee has a very pleasant chocolate bitterness that I like, but I can see if the coffee was roasted dark with an unpleasant bitterness it might be good to neutralize with the cardamom (or you might just like cardamom, but I like choco more).  
