@@ -10,3 +10,8 @@ Brewed with the bypass brewing method to see if I could combat over extraction, 
 Bitter, molasses, weak bodied
 
 Brewed with a bypass method and significantly reduced the brewing temperature from boiling to 180 Fahrenheit. Still not good but less offensive, still doesn’t compare to immersion brews of this coffee.
+
+## Tasting Notes on 3-3-2021:
+Bitter, spiced, sweet, tobacco, heavy bodied, unpleasant
+
+Brewed with an Ibrik with sugar, cardamom, nutmeg at a 1:8 ratio. Taste terrible. I think that this brew method may actually make very tasty coffe, because it changed a bad tasting coffee and made it taste palatable cut still unpleasant. I am thinking that the next time I brewed this coffee I should brew it in a french press with some spices and sugar before decanting it to make a milk drink.
