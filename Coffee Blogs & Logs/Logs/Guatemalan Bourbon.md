@@ -72,3 +72,8 @@ It is an incredibly fascinating change what adding a little cardamom has done. T
 Bitter, slightly sweet, slight acrid taste, slight harshness, chocolaty
 
 1:16 pour over using pulse pour method, but I either ground too fine or brewed too hot. Has distinct notes of over extraction.
+
+### Tasting Notes on 3-6-2021:
+Mild sweetness, dried fruit like acidity, chocolate notes, slight roasty taste, very tasty
+
+1:16 pour over using pulse pour, I ground 1 number finer on my JX manual (37.5 microns coarser). I believe the grind is dialed in, but I am still brewing too hot giving the coffee a roasty finish that I don't think should be there. The bitterness is gone though and it still tasty despite not being perfect.
