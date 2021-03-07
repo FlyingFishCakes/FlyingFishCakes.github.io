@@ -77,3 +77,8 @@ Bitter, slightly sweet, slight acrid taste, slight harshness, chocolaty
 Mild sweetness, dried fruit like acidity, chocolate notes, slight roasty taste, very tasty
 
 1:16 pour over using pulse pour, I ground 1 number finer on my JX manual (37.5 microns coarser). I believe the grind is dialed in, but I am still brewing too hot giving the coffee a roasty finish that I don't think should be there. The bitterness is gone though and it still tasty despite not being perfect.
+
+### Tasting Notes on 3-7-2021:
+Sweet, dried fruit like acidity (I want to say raisins because that was on the bag, but I actually don't know how to describe it), chocolate notes, very tasty
+
+1:16 pour over using pulse pour, I ground 1/3 number coarser on my JX manual (12.5 microns) and lower the brew temp by a few degree. The coffee is very sweet and offers very mild but pronounced acidity (more than I would expect for a dark roast). This is a good dark roast, very tasty.
