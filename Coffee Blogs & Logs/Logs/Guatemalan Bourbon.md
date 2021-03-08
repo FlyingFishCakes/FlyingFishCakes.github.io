@@ -82,3 +82,7 @@ Mild sweetness, dried fruit like acidity, chocolate notes, slight roasty taste, 
 Sweet, dried fruit like acidity (I want to say raisins because that was on the bag, but I actually don't know how to describe it), chocolate notes, very tasty
 
 1:16 pour over using pulse pour, I ground 1/3 number coarser on my JX manual (12.5 microns) and lower the brew temp by a few degree. The coffee is very sweet and offers very mild but pronounced acidity (more than I would expect for a dark roast). This is a good dark roast, very tasty.
+
+## Roast Date 3-7-2021:
+250 grams to 211 grams (15.6% weight loss)
+Roast not timed, aiming for some crack beyond second crack

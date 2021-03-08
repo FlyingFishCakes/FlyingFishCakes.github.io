@@ -1,4 +1,4 @@
-Reroasting Coffee Beans, and Double Roasting
+# Reroasting Coffee Beans, and Double Roasting
 
 Quoting Home-Barista Forum:
 "Double roasting" is a technique that was once used in Switzerland to create very low acid roasts. The beans are roasted to the first crack, left to cool, then reroasted until you get a color you like (no more cracks). I've never tried doing this, but I had the coffee when I was a kid (sort of like toddy brewed coffee). It creates a gorgeous translucent bean, so if you want to display roasted beans, this is the way to get them really pretty.
