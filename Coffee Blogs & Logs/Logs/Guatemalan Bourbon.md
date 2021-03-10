@@ -86,3 +86,8 @@ Sweet, dried fruit like acidity (I want to say raisins because that was on the b
 ## Roast Date 3-7-2021:
 250 grams to 211 grams (15.6% weight loss)
 Roast not timed, aiming for some crack beyond second crack
+
+### Tasting Notes on 3-10-2021:
+Sweet, fruity, vague hint of chocolate, strong
+
+Using Flair espresso to make this coffee as espresso (15 grams in 33 grams out). Not yet used to drinking such concentrated coffee yet, but after dialing in it tastes very fruity and a little bit of chocolate on the finish. I thought I roasted it on the darker side but maybe I need to go even further if I want stronger chocolate notes for espresso (the coffee may also be too fresh, because this is only 3 days off roast). 
