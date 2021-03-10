@@ -5,12 +5,13 @@ Sort of like a wishlist? I just want to keep track of things.
 * Cometeer
 * Jot Coffee
 * Chicory Coffee with milk and sugar
-* Espresso
 * Kaffee (some European pairing of coffee with cheese?)
 * Cafe cubano (I believe this requires and espresso machine to make)
 * Kahwa (looks kind of like a tea?)
 * Café de Olla (Looks like this relies on a certain type of sugar and regional beans)
 * Ethiopian Buna (looks like an interesting version of cowboy coffee with beans ground in mortar)
+### Completed
+* Espresso - Got Flair Espresso Maker
 
 ## Roasters
 * Counter Culture Coffees
@@ -18,6 +19,8 @@ Sort of like a wishlist? I just want to keep track of things.
 * Cat and Cloud
 * Square Mile Roasters
 * Happy Mug
+### Completed
+* Nothing yet
 
 ## Equipment
 * Origami
@@ -30,7 +33,10 @@ Sort of like a wishlist? I just want to keep track of things.
 * Manual espresso maker
 * Cafec filters
 * Lily drip
-
+### Completed
+* Nothing yet
 ## Programming
 * Port of Particle distribution software to a mobile application
 * Simple minimalist pour over timer without nosy brew guides and a countdown timer
+### Completed
+* Nothing yet
