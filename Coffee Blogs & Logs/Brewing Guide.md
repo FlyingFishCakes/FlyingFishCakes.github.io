@@ -32,13 +32,13 @@ Default
 * Most coffees work better at the highest water temp possible. From my experience coffees light roast all the way to just beyond second crack work better with hotter water. Significantly after the second crack is when I noticed that reducing temperature produced better results (I was met with tobacco-ish notes with higher water temp).
 
 ## Other Brew Methods
-### Bypass Brewing
-### Chanho Tornado
-### Hoffman-Rao V60
-### Ibrik/Cezve/Mırra Coffee
-### Melodrip
-### Osmotic Flow
-### 4:6 Tetsu Kasuya Method
+### [Bypass Brewing](Brew Methods/Bypass Brewing.md)
+### [Chanho Tornado](Brew Methods/Chanho Tornado.md)
+### [Hoffman-Rao V60](Brew Methods/Hoffman-Rao V60.md)
+### [Ibrik/Cezve/Mırra Coffee](Brew Methods/Ibrik Coffee.md)
+### [Melodrip](Brew Methods/Melodrip.md)
+### [Osmotic Flow](Brew Methods/Osmotic Flow.md)
+### [4:6 Tetsu Kasuya Method](Brew Methods/Tetsu Kasuya Method.md)
 
 ### Things to try:
 * filter above the coffee puck to buffer water (similar to scott rao high extraction espresso, channeling is less likely given filter grind size but what if I grind finer than recommended?)
