@@ -97,6 +97,11 @@ Sweet, chocolate, pleasant but sharp acidity
 
 Pulling 15 grams in 34 grams out probably need to make it 35 grams out and maybe grind 12.5 microns finer to get rid of the slightly sharp acidity. There is a very pleasant sweetness.
 
+### Tasting Notes on 3-13-2021:
+Very Sweet, slight chocolate, pleasant acidity
+
+Tightened up the grind and pulled an extra gram of water through the puck. The espresso is much more balanced now with some bitterness to balance out the acidity, but I think that the grinder might be holding the espresso back because a more unimodal grinder might give more sweetness while dialing back the acidity and bitterness. Still tasty though.
+
 ## Roast Date 3-13-2021:
 250 grams to 211 grams (15.6% weight loss)
 Roast not timed, I wanted to replicate my previous roast but just roast a bit hotter.
