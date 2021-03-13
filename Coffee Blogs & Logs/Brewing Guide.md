@@ -8,111 +8,6 @@ Water Weight: less = lower extraction, more = higher extraction
 
 For pour over it is also important to pour slowly enough so the coffee grounds that are floating sink in order for the water to percolate through it. If you find that a lot of coffee is floating during your pour then the coffee that is floating will under extract and the coffee that is at the bottom will over extract. Percolation (bed of coffee at bottom) is stronger at dissolving coffee solubles than immersion (floating coffee on top).
 
-## Melodrip
-Definitely did not buy a piece of plastic with holes in it. I fashioned an approximation with a paper coffee cup with holes poked into the bottom. It definitely helped with the gently distributing the water so the coffee bed was not disturbed. The biggest difference though was probably the multiple pulse pours at the beginning that did a great job of degassing the grounds and prepping an evenly saturated coffee bed.
-
-### Main Takeaways
-* Multiple pulse pours to bloom including agitation is very effective
-* Not disturbing the coffee bed can be achieved with a careful pour
-* Melodrip is convenient but not crucial to break the fall of water into the coffee bed (pouring slowly around the edges of the cone has a similar effect)
-
-## Chanho Tornado
-Needs some practice to get that signature dome at the end. I needed to grind a bit finer since it has a faster drawdown allowing a finer grind to allow for enough extraction. Because the coffee is swirling around in the cone, it only initially filters through a small portion of the grounds making the drawdown start fast and stay fast until near the very end.
-
-### Main Takeaways
-* Heavy agitation helps extraction
-* The faster the drawdown the finer you can grind
-
-## Hoffman/Rao V60
-Fairly consistent and repeatable with only grind size to dial in.
-
-### Main Takeaways
-* Fill the cone up high to maintain temperature
-* Stir at the end to knock down coffee stuck to the walls of the brewer
-* Swirl the bloom instead of stirring - this only works with better grinders that don’t generate large amounts of fines
-
-## Osmotic Flow
-I do a modified osmotic flow, not the osmotic flow shown on Cafecs website:
-
-Instead, when you are supposed to begin doing slow concentric circles I do larger circles and I keep the water level low to have the bed as flat as possible after drawdown.
-
-### Main Takeaways
-Bed prep is important (I stir the dry grounds to make sure there are no clumps)
-Agitation is beneficial, but not necessary (I was able to change the flavor profile of a coffee bean with it still tasting good, refer to myanmar natural)
-If you need more precise pouring from you gooseneck kettle, do not fill it as full so you can get a straight drop of water
-Using a V60 it tasted much more like a flat bottom brewer than a cone shaped brewer (see Coffee Science), so may be better to use this technique for darker roasts (suddenly craving a super chocolaty dark roast now).
-Would probably be a waste to use on lighter roasts with fruitier flavors. It would still make a good cup but would mute the special characteristics of the coffee.
-### Addendum
-I tried brewing some french roast coffee that my dad likes and I think I realized why this brew method exists. For some reason the coffee always floats even if I try to agitate as much as I can during the bloom. This method might have come into existence because of a combination of roasting well past the second crack and stale coffee or on the flip side maybe coffee what was roasted very dark and too fresh.
-
-## 4/6 Tetsu Kasuya Method
-Pulse pour method in which you grind very coarse and divide the total brew water into multiple pours within a 40% to 60% framework where the first 40% brew water controls acidity and sweetness. The secondary 60% of brew water controls brew strength. Interestingly, there is little mention of over extraction because of how difficult it is to actually over extract. Remember that the coarser the grind the harder it is to over extract a pour over both because of reduced surface area and a faster flow of water through the coffee bed (the water temperature also doesn’t stay as hot because of the smaller thermal mass in the slurry). This tendency to under extract is balanced by the pulse pours which slow the drawdown. The result is a brew method that makes medium to dark roasts really pop while giving really light roasts a slight grassy/green taste (I think the slurry is just not hot enough in this pulse pour method).
-### The Theory
-The first 40% adjusts the sweetness and acidity because the first pulse also doubles as the bloom in which adding more water while the coffee is still off gassing will under extract the coffee giving more acidity.
-The second pour during the first 40% is said to give more sweetness, but I believe that is just because most of the extraction in a pour over occurs in the first minute after the bloom pour.
-The number of pours in the final 60% adjusts strength and body because the more water in a pulse the faster it draws down (remember the coarse grind?) giving less contact time
-### Main Takeaways
-Coarse grind helps maintain an even coffee bed
-Keep low slurry to reduce brew temperature
-Keep low slurry to increase contact time
-Works wonderfully for medium to dark roasts (light roast tend to get under extracted)
-My theory is that with lighter roasts, water temperature and grind size is more important than brew time
-Easier to under extract than over extract, so try to keep your kettle as hot as possible
-Adjust pulse pour amounts in the first 40% to either increase acidity or sweetness
-Larger first pour to increase acidity, Larger second pour to increase sweetness
-Adjust pulse pour amounts in the second 60% to adjust body and strength
-Fewer pours to reduce strength and body, more pours to increase strength and body
-
-## Bypass Brewing/Concentrate Brewing
-This brew method is where you extract the grounds with a smaller amount of brew water to create a concentrate that is then diluted to the desired strength. There are mixed messages about whether to grind finer (James Hoffman) or coarser (Royal Coffee, Aeropress). I’m thinking that if I grind finer I just brew as normal (coned topped with high thermal mass), while if I grind coarser I might keep the slurry lower and agitate more like I would in an aeropress. Conclusion posted below after testing.
-
-I recently saw a video on James Hoffman’s channel titled “Decolonising Coffee Through Flavor”. In it I saw something called a South Indian Coffee Filter in which you grind espresso/turkish fine coffee and you let it percolate slowly through a metal filter to get a concentrate. I wonder if that can be recreated with a paper filter in a V60 to get a strong coffee concentrate, and I also wonder if this would be a great time to use that metal pour over filter I never liked because of all the sediment (The coffee concentrate I saw in the video was wonderfully clear and free of sediment).
-### Found Sources
-https://www.youtube.com/watch?v=NrWwO7ogzt8&ab_channel=SweetBloomCoffeeRoasters
-Recipe is 1:17 brew ratio with ~80% of the brew water used to brew and ~20% of the water in the cup. He splits the brew water into 3 equal pulses.
-https://www.youtube.com/watch?v=NVcgSBJFhgM&ab_channel=EuropeanCoffeeTrip
-https://aeropress.com/championships/wac-recipes/
-https://www.youtube.com/watch?v=pDznkxkdg2E&t=393s&ab_channel=TheRealSprometheus
-Aeropress recipes that won typically had high dose, extra agitation, and additional dilution
-https://www.youtube.com/watch?v=p9FbflEFpYM&ab_channel=Delight
-https://www.youtube.com/channel/UC4knuYWzyyYYIOx8sn2aLWQ
-This is very similar to what I want to learn, but the videos are all Korean and so I can’t understand any recipes. Further, I am not a fan of the center pour that leaves a ring of grounds on the edge of the dripper
-https://www.youtube.com/watch?v=PApBycDrPo0&ab_channel=JamesHoffmann
-https://www.youtube.com/watch?v=TmqrGEWBOp4&ab_channel=KurasuKyoto
-These 2 videos are my best bet, but instead of adding ice I would just be adding hot water to the carafe/cup. In both videos the recipes use 60%~66% of the total water as brew water.
-https://royalcoffee.com/exploring-bypass/
-This recipe is worded poorly so it is pretty confusing. I think it says that they started with a Kalita wave and brewed bypass using 40% brew water using a 1:18 brew ratio. Then they changed brewers to the clever dripper and tested 2 different coffees. Then they say they brewed the same concentrate using 40% brew water (on 1:18 ratio) and then added a ratio of water based on the resulting concentrate. This means that the 20%-40% water they add is referring to a percentage of the brewed concentrate weight. This results in a small amount of coffee drink at the end which they note so I’m not really eager to test this method.
-### Conclusion
-Having dialed in a few brews with a 1:10 ratio using a V60 which I then dilute after to taste, I have come up with some conclusions. This is not a very efficient brewing method usually resulting in a stronger coffee that can be diluted but is most likely lower in terms of total extraction from the ground coffee. This is effective if you are combatting over extraction this would be a more drastic measure to take.
-
-I changed my mind. This is a wonderful way to make coffee and the method is actually the Aeropress way. Grind coarse, pulse pour, agitate like mad, let it slowly drawdown and you end up with a strong perfectly extracted coffee concentrate. I used a 1:10 ratio dividing each pulse pour into 2.5 times the water 4 times (I’m not quite sure what the optimal pulse pour amounts would be). After each pulse of water I agitate ~10 times  give or take with a spoon. After the coffee has drawn down I add enough water to finish with a 1:15 ratio (this is just a personal preference). After finding out this method of making a coffee concentrate I can say that I will definitely change the traditional way I make Japanese Iced Coffee.
-### Main Takeaways  
-This is an effective but less efficient way to combat over extraction, but this makes me curious about whether I could make certain dark roasted coffees taste amazing.  
-Aeropress method is the way to go  
-Grind coarser (about 2-3 numbers (6-9 clicks) back on the 1zpresso JX from the dialed in setting, probably more if it is a darker roast) remember that you are brewing at a much stronger ratio  so you don’t need to too much coarser since the stronger ratio will also combat over-extraction  
-Agitate plenty (how much you agitate is likely a factor to change given different roast levels)
-Pulse pour to keep slurry level low and drawdown slow  
-Body of coffee is reduced for some reason, probably just a side effect of dilution afterwards and not passing that water through the coffee bed.
-
-## Ibrik/Cezve/Mırra Coffee
-It is incredibly tasting after dialing in the brew method. I can see where the reputation of it being heavily spiced and sugar-ed comes from because of how easy it is to over-extract given the flour fine grind and how many people compensate for that. The guides I found below helped me out a lot in dialing in.
-
-### Recipe
-* Ratio is 1:8 - 1:10 coffee to water with optional sugar and spices
-* Room temp or cold water into the Ibrik with coffee and optionally sugar and spices
-* Stir to incorporate coffee with water (no more than ~10 times)
-* Heat Ibrik over medium heat swirling very occasionally if you see coffee float or look uneven
-* Let it slowly rise once
-* Pick up Ibrik and let the foam deflate a bit before safely pouring into serving cup
-
-### Tips & Takeaways
-* The coffee will absorb roughly 1.5 ~ 2.0 times the water weight leaving a sludge at the bottom
-* I find that 1:10 works well for lighter roasts, while 1:8 works better for darker roasts (1:10 gives a lighter cleaner cup, 1:8 gives a heavier richer cup)
-* Adding sugar will increase body/thickness on top of sweetness (1:8 ratio dark roast with a spoon of sugar is like a dessert)
-* If you want the crema on top then remember coffee freshness is your friend
-* The crema you see on top of the coffee adds bitterness, but makes your coffee much more aromatic, if you want to get rid of the roast-y bitterness you can skim off the crema for a sweeter tasting cup.
-* If your coffee is going stale/has off flavors this brew method will most likely exacerbate it.
-
 ## My Current Pour Over Guide (Updated Regularly)
 Default  
 1. Prepare brewer, filter, hot water, ground coffee, stir stick, scale, and optionally a timer
@@ -135,6 +30,15 @@ Default
 * If you choose to swirl the bloom instead of stirring remember to not do it too many times as it has a tendency to choke the drawdown
 * If you use a timer keep in mind it is an output variable, and can be used for diagnosing problems (otherwise not very important)
 * Most coffees work better at the highest water temp possible. From my experience coffees light roast all the way to just beyond second crack work better with hotter water. Significantly after the second crack is when I noticed that reducing temperature produced better results (I was met with tobacco-ish notes with higher water temp).
+
+## Other Brew Methods
+### Bypass Brewing
+### Chanho Tornado
+### Hoffman-Rao V60
+### Ibrik/Cezve/Mırra Coffee
+### Melodrip
+### Osmotic Flow
+### 4:6 Tetsu Kasuya Method
 
 ### Things to try:
 * filter above the coffee puck to buffer water (similar to scott rao high extraction espresso, channeling is less likely given filter grind size but what if I grind finer than recommended?)
