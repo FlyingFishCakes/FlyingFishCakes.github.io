@@ -34,7 +34,8 @@ Sort of like a wishlist? I just want to keep track of things.
 * Cafec filters
 * Lily drip
 ### Completed
-* Nothing yet
+* Nothing yet  
+
 ## Programming
 * Port of Particle distribution software to a mobile application
 * Simple minimalist pour over timer without nosy brew guides and a countdown timer
