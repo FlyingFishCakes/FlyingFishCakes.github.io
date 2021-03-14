@@ -26,6 +26,12 @@ For pour over it is also important to pour slowly enough so the coffee grounds t
 * Agitating the bubbles in the bloom works to saturate dry spots of grounds.
 * The second pulse of water with agitation preps the bed of coffee to allow even percolation of water through the puck (notice that after bloom pour the wet grounds clump again?). You get a slurry with no clumps and naturally settles to the bottom assuming you did a good job with the bloom.
 
+### Things to keep in mind:
+* If you choose to swirl the bloom instead of stirring remember to not do it too many times as it has a tendency to choke the drawdown
+* If you use a timer keep in mind it is an output variable, and can be used for diagnosing problems (otherwise not very important)
+* Most coffees work better at the highest water temp possible. From my experience coffees light roast all the way to just beyond second crack work better with hotter water. Significantly after the second crack is when I noticed that reducing temperature produced better results (I was met with tobacco-ish notes with higher water temp).
+
+
 ### Secondary - Pulse Pour (when you have less coffee to dial in)
 1. Prepare brewer, filter, hot water, ground coffee, stir stick, scale, and optionally a timer
 2. Place filter in brewer to prewet and preheat brewer
@@ -41,9 +47,9 @@ For pour over it is also important to pour slowly enough so the coffee grounds t
 * The reason you want more pulses if the coffee is roasted light and less if dark is because agitation increases extraction  
 
 ### Things to keep in mind:
-* If you choose to swirl the bloom instead of stirring remember to not do it too many times as it has a tendency to choke the drawdown
-* If you use a timer keep in mind it is an output variable, and can be used for diagnosing problems (otherwise not very important)
-* Most coffees work better at the highest water temp possible. From my experience coffees light roast all the way to just beyond second crack work better with hotter water. Significantly after the second crack is when I noticed that reducing temperature produced better results (I was met with tobacco-ish notes with higher water temp).
+* If you are over extracting grind coarser and use less pulses
+* If you are under extracting grind finer and use more pulses
+* Remember to keep your kettle temp up, because with less water in the cone temperature drops faster
 
 ## Other Brew Methods
 ### [Bypass Brewing](Brew Methods/Bypass Brewing.md)
