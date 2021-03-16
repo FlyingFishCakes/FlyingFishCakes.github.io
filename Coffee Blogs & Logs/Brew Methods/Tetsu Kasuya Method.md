@@ -17,3 +17,9 @@ Pulse pour method in which you grind very coarse and divide the total brew water
  * Larger first pour to increase acidity, Larger second pour to increase sweetness
 * Adjust pulse pour amounts in the second 60% to adjust body and strength
  * Fewer pours to reduce strength and body, more pours to increase strength and body
+
+## References
+* https://www.youtube.com/watch?v=wmCW8xSWGZY
+* https://www.youtube.com/watch?v=OFLaCs99lWY
+* https://www.youtube.com/watch?v=fKl8_ZlGMbk
+* https://www.youtube.com/watch?v=ivtJOywuzBw
