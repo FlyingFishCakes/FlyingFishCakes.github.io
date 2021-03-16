@@ -19,8 +19,7 @@ Pulse pour method in which you grind very coarse and divide the total brew water
  * Fewer pours to reduce strength and body, more pours to increase strength and body
 
 ## References
-* https://www.youtube.com/watch?v=wmCW8xSWGZY
-* https://www.youtube.com/watch?v=OFLaCs99lWY
-* https://www.youtube.com/watch?v=fKl8_ZlGMbk
-* https://www.youtube.com/watch?v=ivtJOywuzBw  
-{% include youtubePlayer.html id="wmCW8xSWGZY" %}
+{% include youtubePlayer.html id="wmCW8xSWGZY" %}  
+{% include youtubePlayer.html id="OFLaCs99lWY" %}  
+{% include youtubePlayer.html id="fKl8_ZlGMbk" %}  
+{% include youtubePlayer.html id="ivtJOywuzBw" %}  
