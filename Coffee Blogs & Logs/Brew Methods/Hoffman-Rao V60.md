@@ -7,6 +7,6 @@ Fairly consistent and repeatable with only grind size to dial in.
 * Swirl the bloom instead of stirring - this only works with better grinders that don’t generate large amounts of fines
 
 ## References
-* https://www.youtube.com/watch?v=AI4ynXzkSQo
-* https://www.youtube.com/watch?v=c0Qe_ASxfNM
-* https://www.youtube.com/watch?v=BjsGf3R9mc0
+{% include youtubePlayer.html id="AI4ynXzkSQo" %}  
+{% include youtubePlayer.html id="c0Qe_ASxfNM" %}  
+{% include youtubePlayer.html id="BjsGf3R9mc0" %}  
