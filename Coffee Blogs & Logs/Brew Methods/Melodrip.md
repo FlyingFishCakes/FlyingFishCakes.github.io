@@ -8,7 +8,7 @@ Definitely did not buy a piece of plastic with holes in it. I fashioned an appro
 * Very consistent brew method in which the only variable is the grind size
 
 ## References
-* https://www.youtube.com/watch?v=eXfn13czBik
-* https://www.youtube.com/watch?v=Dq4IFDZa1kg
-* https://www.youtube.com/watch?v=6p5ZAQ_bhgA
-* https://www.youtube.com/watch?v=tmWW4dw54cI
+{% include youtubePlayer.html id="eXfn13czBik" %}  
+{% include youtubePlayer.html id="Dq4IFDZa1kg" %}  
+{% include youtubePlayer.html id="6p5ZAQ_bhgA" %}  
+{% include youtubePlayer.html id="tmWW4dw54cI" %}  
