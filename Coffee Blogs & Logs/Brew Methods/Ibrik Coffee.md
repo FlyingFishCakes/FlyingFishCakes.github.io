@@ -20,9 +20,9 @@ It is incredibly tasting after dialing in the brew method. I can see where the r
 * You can filter your coffee if you don't like the sediment just by pouring it through a filter after the coffee is done.
 
 ## References
-* https://www.youtube.com/watch?v=ocEk0RFkmIk
-* https://www.youtube.com/watch?v=oy9OZSenZYA
-* https://www.youtube.com/watch?v=1ckCvNNjMDc
-* https://www.youtube.com/watch?v=pY15QkNa7vQ
-* https://www.youtube.com/watch?v=LYQ-zNJdso4
-* https://www.youtube.com/watch?v=yX3Jao5vWfM
+{% include youtubePlayer.html id="ocEk0RFkmIk" %}  
+{% include youtubePlayer.html id="oy9OZSenZYA" %}  
+{% include youtubePlayer.html id="1ckCvNNjMDc" %}  
+{% include youtubePlayer.html id="pY15QkNa7vQ" %}  
+{% include youtubePlayer.html id="LYQ-zNJdso4" %}  
+{% include youtubePlayer.html id="yX3Jao5vWfM" %}  
