@@ -22,4 +22,5 @@ Pulse pour method in which you grind very coarse and divide the total brew water
 * https://www.youtube.com/watch?v=wmCW8xSWGZY
 * https://www.youtube.com/watch?v=OFLaCs99lWY
 * https://www.youtube.com/watch?v=fKl8_ZlGMbk
-* https://www.youtube.com/watch?v=ivtJOywuzBw
+* https://www.youtube.com/watch?v=ivtJOywuzBw  
+{% include youtubePlayer.html id="wmCW8xSWGZY" %}
