@@ -11,7 +11,7 @@ A brew method in which you:
  * I think Coffee Chronicler's video of this method might be the best one to learn from
 
 ## References
-* https://www.youtube.com/watch?v=t9hR77mfqe0
-* https://www.youtube.com/watch?v=Az01iNS1xnQ <- Coffee Chronicler Video
-* https://www.youtube.com/watch?v=Y8BkalMsN2Q
-* https://www.youtube.com/watch?v=eVyD6xt5SSo
+{% include youtubePlayer.html id="t9hR77mfqe0" %}  
+{% include youtubePlayer.html id="Az01iNS1xnQ" %}  
+{% include youtubePlayer.html id="Y8BkalMsN2Q" %}  
+{% include youtubePlayer.html id="eVyD6xt5SSo" %}  
