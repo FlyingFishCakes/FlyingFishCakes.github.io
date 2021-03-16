@@ -8,6 +8,6 @@ Needs some practice to get that signature dome at the end. I needed to grind a b
 * This is only practical on a single cup or small brew
 
 ## References
-* https://www.youtube.com/watch?v=rzEMhYMDYPY
-* https://www.youtube.com/watch?v=uBk65cej2u0
-* https://www.youtube.com/watch?v=Yr3M55Uw_tU
+{% include youtubePlayer.html id="rzEMhYMDYPY" %}  
+{% include youtubePlayer.html id="uBk65cej2u0" %}  
+{% include youtubePlayer.html id="Yr3M55Uw_tU" %}  
