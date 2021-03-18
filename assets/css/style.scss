@@ -1,4 +1,9 @@
 ---
 ---
 
+/*
+Lines before the import theme line will is where you want to change theme attributes.
+Custom attibutes can go after the the import theme line.
+*/
+
 @import "{{ site.theme }}";
