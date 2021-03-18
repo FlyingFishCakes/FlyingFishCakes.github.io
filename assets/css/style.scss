@@ -7,3 +7,30 @@ Custom attibutes can go after the the import theme line.
 */
 
 @import "{{ site.theme }}";
+
+.dropDownNav {
+  position: relative;
+  display: inline-block;
+}
+
+.navButtonClassContent {
+  display: none;
+  position: absolute;
+  background-color: inherit;
+  min-width: inherit;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.navButtonClassContent a {
+  color: inherit;
+  padding: inherit;
+  text-decoration: none;
+  display: block;
+}
+
+.navButtonClassContent a:hover {background-color: #ddd;}
+
+.dropDownNav:hover .navButtonClassContent {display: block;}
+
+.dropDownNav:hover .navButtonClass {background-color: #3e8e41;}
