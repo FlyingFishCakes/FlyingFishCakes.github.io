@@ -105,3 +105,8 @@ Tightened up the grind and pulled an extra gram of water through the puck. The e
 ## Roast Date 3-13-2021:
 250 grams to 211 grams (15.6% weight loss)
 Roast not timed, I wanted to replicate my previous roast but just roast a bit hotter.
+
+### Tasting Notes on 3-20-2021:
+Bright acidity, pronounced sweetness, chocolaty finish
+
+Finally dialed in espresso of this new roast; I reduced the dose from 15 grams to 14.5 and pulled 32 grams out with 3 bar preinfusion and 6 bar flat profile to get the best tasting espresso I had since getting the Flair. The reservoir doesn't hold enough water to do a good job extracting more than 15 grams of coffee (unless it is roasted very dark maybe?). After half of the shot I wondered how this coffee would taste as the basis of a milk drink, and it was amazing. After adding milk the acidity, sweetness, and chocolate notes combined together to form very, very strong caramel notes. This coffee would be amazing as the basis of a milk drink, it tasted sweet enough without sugar to stand up the milk.
