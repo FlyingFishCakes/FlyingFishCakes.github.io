@@ -110,3 +110,8 @@ Roast not timed, I wanted to replicate my previous roast but just roast a bit ho
 Bright acidity, pronounced sweetness, chocolaty finish
 
 Finally dialed in espresso of this new roast; I reduced the dose from 15 grams to 14.5 and pulled 32 grams out with 3 bar preinfusion and 6 bar flat profile to get the best tasting espresso I had since getting the Flair. The reservoir doesn't hold enough water to do a good job extracting more than 15 grams of coffee (unless it is roasted very dark maybe?). After half of the shot I wondered how this coffee would taste as the basis of a milk drink, and it was amazing. After adding milk the acidity, sweetness, and chocolate notes combined together to form very, very strong caramel notes. This coffee would be amazing as the basis of a milk drink, it tasted sweet enough without sugar to stand up the milk.
+
+### Tasting Notes on 3-21-2021:
+Bright acidity, strong sweetness, round finish (I think is caused by bitterness even though I can't directly taste it)
+
+14 grams in 30 grams out ground a bit finer. I pulled this shot a little shorter to get a brighter taste, strong sweetness, and minimal bitterness at the highest posssible strength at the cost of some extraction. 
