@@ -31,3 +31,7 @@ Just a short general impression with link to logs.
 ## Starbucks French Roast
 
 [Logs](Logs/Starbucks French Roast.md)
+
+## Ethical Bean Coffee: Sweet Espresso
+
+[Logs](Logs/EBC Sweet Espresso.md)
