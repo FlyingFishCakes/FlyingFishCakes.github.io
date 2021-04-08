@@ -35,3 +35,9 @@ Just a short general impression with link to logs.
 ## Ethical Bean Coffee: Sweet Espresso
 
 [Logs](Logs/EBC Sweet Espresso.md)
+## Kicking Horse coffee: Grizzly Claw
+
+[Logs](Logs/KHC Grizzly Claw.md)
+## Sam's Choice: Main 105 Coffee
+
+[Logs](Logs/SC Main 105.md)
