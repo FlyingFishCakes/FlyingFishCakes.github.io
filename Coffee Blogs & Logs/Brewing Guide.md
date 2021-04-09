@@ -53,6 +53,19 @@ For pour over it is also important to pour slowly enough so the coffee grounds t
 * If you are under extracting grind finer and use more pulses
 * Remember to keep your kettle temp up, because with less water in the cone temperature drops faster
 
+### Tertiary - Ibrik/Cezve
+1. Prepare Ibrik, Cezve, or saucepan with ground coffee, water, scale, stir stick, and optionally a thermometer
+2. Measure out a ratio of 1:10 to 1:8 coffee to water ratio based on preference
+3. Add coffee then water and stir just enough to incorporate ground coffee (This is when you add sugar and spices if you want)
+4. Put the vessel on the stove and bring to 70 Celsius if very dark roast or 90 Celsius for very light roast. (80 Celsius is a good starting point for everything else)
+5. If you don't have a thermometer just finish once the coffee foams up once
+6. After bringing it up to temperature pour into your serving cup and your done!
+7. Extra: if you don't like the sludge you can filter it with a rinsed pour over filter + cone
+
+### My Own Experience:
+* This method is great with sugar making a dessert drink.
+* Cardamom, cinnamon, cocoa powder are all things I've tried adding to make a spiced drink, but haven't had any success (either plain or with sugar is best IMO)
+
 ## Other Brew Methods
 ### [Bypass Brewing](Brew Methods/Bypass Brewing.md)
 ### [Chanho Tornado](Brew Methods/Chanho Tornado.md)
