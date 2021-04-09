@@ -6,7 +6,9 @@ Dose: less = higher extraction, more = lower extraction
 Water Temperature: lower = lower extraction, high = higher extraction  
 Water Weight: less = lower extraction, more = higher extraction
 
-For pour over it is also important to pour slowly enough so the coffee grounds that are floating sink in order for the water to percolate through it. If you find that a lot of coffee is floating during your pour then the coffee that is floating will under extract and the coffee that is at the bottom will over extract. Percolation (bed of coffee at bottom) is stronger at dissolving coffee solubles than immersion (floating coffee on top).
+<b>This is personal preference but if you find a coffee that despite dialing-in, never tastes quite right, try a different brew method. Switching between immersion (French Press, Ibrik/Cezve, Aeropress, etc.) vs percolation (Pour Over, Espresso, etc.) make a big difference sometimes. There are some dark roast coffees that I absolutely can't stand as a pour over that I love as French Press or Turkish Coffee. </b>
+
+For pour over it is also important to pour slowly enough so the coffee grounds that are floating sink in order for the water to percolate through it. If you find that a lot of coffee is floating during your pour then the coffee that is floating will under extract and the coffee that is at the bottom will over extract. Percolation (bed of coffee at bottom) is stronger at dissolving coffee soluble than immersion (floating coffee on top).
 
 ## My Current Pour Over Guide (Updated Regularly)
 ### Default - Single Pour with 2 Bloom Pours (when you have more coffee to dial in)
