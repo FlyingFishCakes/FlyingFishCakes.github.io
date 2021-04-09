@@ -18,3 +18,9 @@ On the bag the tasting notes are supposed to be dark, chocolate, nutty, smooth. 
 Sweet, slight chocolate, slight tobacco, slight caramel
 
 Brewed using a stronger ratio and was able to get a more chocolate note but not much taste like a generic dark roast, not super interesting.
+
+## Roast Date: 4-9-2021
+213.9 grams in, 186.4 grams out, 12.9% roast loss
+3:30 dry
+4:30 first crack
+9:45 drop
