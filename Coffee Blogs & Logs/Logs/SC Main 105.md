@@ -13,4 +13,9 @@ Very sweet, tart acidity, honey on the finish
 
 Espresso recipe is 41 grams out, 15 grams in, 6 bar pressure, and one step coarser than yesterday. Roasty/bitter finish is gone now and the espresso is sweet with a mild acidity which is surprising. This is a medium roast so I was expecting a sharper more aggressive acidity. Either this coffee is a little more developed than I thought or it might be the effect of getting stale.
 
+## Tasting Notes on 4-10-2021:
+Mildly Sweet, roasty/bitter, no acidity
+
+30 grams in, 500 grams out, V60 pour over. This is probably over extracted, I probably need to lower the brew temp and coarsen the grind size to get rid of the roasty and bitter tastes respectively. Not great.
+
 ## Review

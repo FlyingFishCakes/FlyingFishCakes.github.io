@@ -116,5 +116,5 @@ Bright acidity, strong sweetness, round finish (I think is caused by bitterness 
 
 14 grams in 30 grams out ground a bit finer. I pulled this shot a little shorter to get a brighter taste, strong sweetness, and minimal bitterness at the highest possible strength at the cost of some extraction. It is a very tasty shot of espresso. I wish I has a cup small enough.
 
-## Roaste Date 4-10-2021:
+## Roast Date 4-10-2021:
 251.2 grams to 218.7 grams (12.9% roast loss)
