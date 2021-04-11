@@ -18,4 +18,9 @@ Mildly Sweet, roasty/bitter, no acidity
 
 30 grams in, 500 grams out, V60 pour over. This is probably over extracted, I probably need to lower the brew temp and coarsen the grind size to get rid of the roasty and bitter tastes respectively. Not great.
 
+## Tasting Notes on 4-11-2021:
+Mild Sweetness, mild acidity, heavy body
+
+50 grams in, 800 grams out, V60 pour over temperature dropped to 85 Celsius grind coarsened. This is properly extracted and tastes good, but is a little weak (stronger ratio would probably be better). I have run out of this coffee so I guess I won't get another chance to dial in this time.
+
 ## Review
