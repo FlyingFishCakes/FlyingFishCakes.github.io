@@ -24,3 +24,11 @@ Mild Sweetness, mild acidity, heavy body
 50 grams in, 800 grams out, V60 pour over temperature dropped to 85 Celsius grind coarsened. This is properly extracted and tastes good, but is a little weak (stronger ratio would probably be better). I have run out of this coffee so I guess I won't get another chance to dial in this time.
 
 ## Review
+This was pretty good and while it sometimes showed notes of staleness, it didn't show any notes of oxidation.
+
+## What I learned
+I am beginning to think that most commercially roasted coffees are perfectly fine to purchase given that you take proper care to store the beans after opening the bag. Most likely because it was bagged immediately after roasting in a package with a valve there was no chance for oxygen to make it into the bean. But even if there is no oxygen contacting the bean, the coffee will still off-gas over time and gas will exit through the valve. As a result the coffee is stale but not oxidized; this means you can get decent commercial coffee if you are a bit more tentative. They will oxidize much faster than a freshly roasted coffee in the same storage conditions.
+
+Upon opening a larger bag of coffee separate it into no more than 1 week portions.  
+Freeze all the bags that you are not using.  
+Keep the bags after use for the next time you buy commercially roasted coffee.
