@@ -118,3 +118,8 @@ Bright acidity, strong sweetness, round finish (I think is caused by bitterness 
 
 ## Roast Date 4-10-2021:
 251.2 grams to 218.7 grams (12.9% roast loss)
+
+### Tasting Notes on 4-20-2021:
+Tart acidity, honey/berry like sweetness, very sweet, caramel finish, trace of bitterness (spicy?), very tasty
+
+Brewed with a V60. The coffee has a predominant acidity with a very pleasant sweetness. The sweetness tastes berry like combined with the tart acidity. There is also a trace of bitterness reminiscent of that slight bitterness one might perceive with toasted spices and is very pleasant. This is a very lightly roasted coffee and needs to be brewed as hot as possible and with a higher ratio; otherwise it is possible to get very grassy/vegetable flavors and/or a unpalatable acidity.
