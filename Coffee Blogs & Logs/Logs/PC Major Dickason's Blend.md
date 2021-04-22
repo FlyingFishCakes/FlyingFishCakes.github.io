@@ -19,3 +19,8 @@ Espresso recipe 15 grams in, 30 grams out, not timed. The coffee completely tran
 Very Sweet, slight hint of chocolate, notes of molasses, very mild acidity(dried fruit like), roasted nuts, very tasty
 
 Brewed with a V60, I finally figured out how to dial it in. I used hottest water possible with 20 grams coffee, 200 grams water, with a very very slow pour. It is very sweet and no longer has notes of over extraction. I think from now on a 1:10 ratio is the correct recipe for dark roasts.
+
+### Tasting Notes on 4-22-2021:
+Very sweet, roasty notes, hint of chocolate, roasted nuts, mild acidity
+
+Brewed with V60, 60 grams coffee, 600 grams water, 150 grams water added dilution. It is very sweet and tasty, but has notes of over extraction and might need a coarser grind. 
