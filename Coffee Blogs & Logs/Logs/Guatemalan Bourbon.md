@@ -123,3 +123,13 @@ Bright acidity, strong sweetness, round finish (I think is caused by bitterness 
 Tart acidity, honey/berry like sweetness, very sweet, caramel finish, trace of bitterness (spicy?), very tasty
 
 Brewed with a V60. The coffee has a predominant acidity with a very pleasant sweetness. The sweetness tastes berry like combined with the tart acidity. There is also a trace of bitterness reminiscent of that slight bitterness one might perceive with toasted spices and is very pleasant. This is a very lightly roasted coffee and needs to be brewed as hot as possible and with a higher ratio; otherwise it is possible to get very grassy/vegetable flavors and/or a unpalatable acidity.
+
+### Tasting Notes on 5-2-2021:
+Very sweet, honey, mellow tang of acidity, slight bitterness on the finish, grapefruit
+
+Brewed with V60, 20 grams coffee, 320 grams water. Very light roast with little bitterness before it leads into astringency. Work well with or without the bitterness. Without the bitterness it taste very sweet and fruity, but with the bitterness there is a bit more depth (flavors reminiscent of grapefruit peel and spices).
+
+### Tasting Notes on 5-3-2021:
+Sweet, slight tangy acidity, slight vegetle/grassy
+
+V60 brew with 20 grams coffee, 320 grams water. There is a green/grassy underdeveloped roast taste, probably needs to ground finer. 
