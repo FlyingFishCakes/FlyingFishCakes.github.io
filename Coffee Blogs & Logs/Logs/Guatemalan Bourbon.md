@@ -132,4 +132,10 @@ Brewed with V60, 20 grams coffee, 320 grams water. Very light roast with little 
 ### Tasting Notes on 5-3-2021:
 Sweet, slight tangy acidity, slight vegetle/grassy
 
-V60 brew with 20 grams coffee, 320 grams water. There is a green/grassy underdeveloped roast taste, probably needs to ground finer. 
+V60 brew with 20 grams coffee, 320 grams water. There is a green/grassy underdeveloped roast taste, probably needs to ground finer, but there is probably always going to have a bit of that taste.
+
+
+### Tasting Notes on 5-4-2021:
+Very sweet, slight roastiness, tart acidity
+
+V60 brew with 20 grams coffee, 320 grams water, pulse pour. It tastes much better if I push it to the edge of overextraction. 
