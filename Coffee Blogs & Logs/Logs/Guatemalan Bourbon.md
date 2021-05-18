@@ -138,4 +138,10 @@ V60 brew with 20 grams coffee, 320 grams water. There is a green/grassy underdev
 ### Tasting Notes on 5-4-2021:
 Very sweet, slight roastiness, tart acidity
 
-V60 brew with 20 grams coffee, 320 grams water, pulse pour. It tastes much better if I push it to the edge of overextraction. 
+V60 brew with 20 grams coffee, 320 grams water, pulse pour. It tastes much better if I push it to the edge of overextraction.
+
+
+### Tasting Notes on 5-17-2021:
+Sweet, fruity, caramel, slight astringency
+
+V60 brew with 30 grams coffee, 500 grams water, and 100 grams water dilution in the brew after. Very tasty, but still tastes like a light roast with some roast defects - there is always some astringency that cannot be eliminated through brew parameters. 
